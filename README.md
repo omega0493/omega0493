@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.soh9508@gmail.com)
 <br><br><br>
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=omega0493&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="omega0493's github stats" /></a> | <a href="https://github.com/omega0493/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omega0493&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
 </div>
 
 
