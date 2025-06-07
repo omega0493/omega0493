@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 ## 💫 m e 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.soh9508@gmail.com)
 <br><br><br>
-  
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 </div>
 
 
